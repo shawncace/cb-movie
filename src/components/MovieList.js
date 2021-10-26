@@ -8,6 +8,7 @@ const MovieList = (props) => {
           <img src={movie.Poster}        
                alt='movie img'>
           </img>
+          
         </div>
       ))}    
     </>
